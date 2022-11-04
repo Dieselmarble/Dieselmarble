@@ -3,10 +3,10 @@
 ### 你好，世界 👋
 
 - 👋 Hi, I’m @Dieselmarble
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in robotics, especially control, taks and motion planning
+- 🌱 I’m currently learning NOTHING
+- 💞️ I’m looking to collaborate on NOTHING
+- 📫 How to reach me? Drop me an email lizhongxuanchina[AT]foxmail[DOT]com
 
 <!---
 Dieselmarble/Dieselmarble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
