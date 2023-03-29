@@ -3,7 +3,7 @@
 ### Hi There! 👋
 
 - 👋 I’m @Dieselmarble 👋
-- 👀 I’m interested in robotics，with a focus on learning from demonstrations and task & motion planning. 👀
+- 👀 I’m interested in robotics, with a focus on LfD (learning from demonstrations) and TAMP (task & motion planning). 👀
 - 📫 How to reach me? Drop me an email lizhongxuanchina[AT]foxmail[DOT]com 🌱
 
 <!---
