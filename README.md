@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Dieselmarble
 - 👀 I’m interested in robotics, especially control, taks and motion planning
-- 🌱 I’m currently learning ... 💞️ 
+- 🌱 I’m currently learning ... 
 - 📫 How to reach me? Drop me an email lizhongxuanchina[AT]foxmail[DOT]com
 
 <!---
