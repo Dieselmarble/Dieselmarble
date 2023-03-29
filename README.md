@@ -1,11 +1,10 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=Dieselmarble&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
+### Hi There! 👋
 
-- 👋 Hi, I’m @Dieselmarble
-- 👀 I’m interested in robotics, especially control, taks and motion planning
-- 🌱 I’m currently learning ... 
-- 📫 How to reach me? Drop me an email lizhongxuanchina[AT]foxmail[DOT]com
+- 👋 I’m @Dieselmarble 👋
+- 👀 I’m interested in robotics，with a focus on learning from demonstrations and task & motion planning. 👀
+- 📫 How to reach me? Drop me an email lizhongxuanchina[AT]foxmail[DOT]com 🌱
 
 <!---
 Dieselmarble/Dieselmarble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
