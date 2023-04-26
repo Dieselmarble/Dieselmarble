@@ -4,7 +4,7 @@
 
 - 👋 I’m @Dieselmarble 
 - 👀 I’m interested in robotics, with an emphasis on LfD (learning from demonstrations) and TAMP (task & motion planning). 
-- 📫 How to reach me? Drop me an email lizhongxuanchina[AT]Gmail[DOT]com 
+- 📫 How to reach me? Drop me an email lizhongxuanchina[AT]gmail[DOT]com 
 
 <!---
 Dieselmarble/Dieselmarble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
