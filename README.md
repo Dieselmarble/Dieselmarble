@@ -11,5 +11,8 @@ Dieselmarble/Dieselmarble is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+
+## ⚡ Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dieselmarble&hide=TeX&layout=compact)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dieselmarble.Dieselmarble)
