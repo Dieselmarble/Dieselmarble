@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Dieselmarble&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
 
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieselmarble&hide=Tex,javascript,html,jupyter%20notebook&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieselmarble&hide=Tex,javascript,html,jupyter%20notebook,XSLT&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
     </td>
   </tr>
 </table>
